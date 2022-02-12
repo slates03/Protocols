@@ -50,6 +50,15 @@
 3. Stored in -80°C freezer until ready for cDNA
 
 ## Quigen Cleaning
-
+1. Add RNA in 100% ETOH to column
+2. Add to Quiagen RNEASY column
+3. 500ul RW1, spin @7800 for 15 seconds (15 second spin = 15ss)
+4. Add 10ul DNASE into 70ul RDD then add this 80ul to the column. Ensure complete coverage of the filter and edges. Note: make a master batch if doing large numbers of samples
+5. Incubate for 15 minutes @RT
+6. Add 350 ul RW1 15ss, remove flow through
+7. Add 500ul RPE 15ss, remove flow through
+8. Add 500ul RPE 15ss, remove flow through
+9. Dry the sample completely (15ss)
+10. Add new tube to bottom and add 30-50ul warm DEPC-treated H2O. Let sit for a few minutes then 15ss
 
 
