@@ -53,6 +53,21 @@ dilution=100000 DF & 0.5 ul sperm/1000ul dilution=200000 DF )
 
 **Dilution Chart**
 
+| **Semen (ul)** | **Diluting Fluid (uL)** | **units/mL** |
+|------|-----|-----|
+|  0.25   |  999.75  |  1  |
+|  0.50   |  999.50  |  2  |
+|  0.75   |  999.25  |  3  |
+|  1.00   |  999.00  |  4  |
+|  1.25   |  998.75  |  5  |
+|  1.50   |  998.50  |  6  |
+|  1.75   |  998.25  |  7  |
+|  2.00   |  998.00  |  8  |
+|  2.25   |  997.75  |  9  |
+|  2.50   |  997.50  |  10  |
+|  2.75   |  997.25  |  11  |
+|  3.00   |  997.00  |  12  |
+
 **Procedure**
 1. Turn on spectrophotometer power switches at least 15 min before use.
 2. Set the wavelength adjustment knob to set the red wavelength to 540 nm
