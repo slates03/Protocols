@@ -5,7 +5,7 @@
 1. 0.3g glucose
 2. 0.41g potassium chloride
 3. 0.21g sodium bicarbonate
-4. 2.438g
+4. 2.438g sodium citrate dihydrate
 5. To 100 mL in deionized water
 
 **Sperm Viability Hayes Buffer - Den Boer et al. (2009)**
